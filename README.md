@@ -1,24 +1,16 @@
 # aula4
 
-## Project setup
+## Instalando as dependencias do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto localmente
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Gerar um build da SPA
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
